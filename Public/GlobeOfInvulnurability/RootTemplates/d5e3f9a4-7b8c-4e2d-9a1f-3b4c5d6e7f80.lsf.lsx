@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d5e3f9a4-7b8c-4e2d-9a1f-3b4c5d6e7f80" />
+					<attribute id="Name" type="LSString" value="Globe_Of_Invulnurability_Rim_East" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="06f96d65-0ee5-4ed5-a30a-92a3bfe3f708" />
+					<attribute id="VisualTemplate" type="FixedString" value="b3358aac-d287-be09-b906-8a78a08f2b67" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he798cd51g9d7ag570cg8a07g31f46f6ac5dd" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd2e68042g5e21gacb3gbbe8g2b367c0e4b3d" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="False" />
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="False" />
+					<attribute id="Icon" type="FixedString" value="Spell_Abjuration_GlobeOfInvulnerability" />
+					<attribute id="Stats" type="FixedString" value="OBJ_GlobeOfInvulnurability_Rim_Blocker" />
+					<attribute id="IsInteractionDisabled" type="bool" value="False" />
+					<attribute id="GravityType" type="uint8" value="1" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="1.90 -0.1 -2.75" />
+									<attribute id="Max" type="fvec3" value="2.75 8 2.75" />
+									<attribute id="Radius" type="float" value="2.75" />
+									<attribute id="Height" type="float" value="8.1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="1.90 -0.1 -2.75" />
+									<attribute id="Max" type="fvec3" value="2.75 8 2.75" />
+									<attribute id="Radius" type="float" value="2.75" />
+									<attribute id="Height" type="float" value="8.1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="1.90 -0.1 -2.75" />
+									<attribute id="Max" type="fvec3" value="2.75 8 2.75" />
+									<attribute id="Radius" type="float" value="2.75" />
+									<attribute id="Height" type="float" value="8.1" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GOI_RIM_BLOCKER_MAGICAL_PHYSICAL_RESISTANCE" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

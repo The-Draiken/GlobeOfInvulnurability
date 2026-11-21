@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="he798cd51g9d7ag570cg8a07g31f46f6ac5dd" version="1">Globe of Invulnerability</content>
+  <content contentuid="hd2e68042g5e21gacb3gbbe8g2b367c0e4b3d" version="1">Create a magical shell that blocks movement and attacks through it. The shell is Invulnurable to all physical damage. Note though the sphere is not indestructable as enough force from Magical or Elemental Damage will bring down the Sphere as the Shell only has 500 Hitpoints, regardless it is still resitent to these forms of damage. </content>
+  <content contentuid="ha99b477bgd6b5g4bd9g9ac0g20efca56c6a8" version="3">Silvered Bulwark</content>
+  <content contentuid="h53b46118gc71bg4c92g83a9g0234d9d32f95" version="3">Affected entity is &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to all damage. This protection is shared by every creature and object within the barrier.</content>
+  <content contentuid="h3032583fgda3ag20d1gee70g93a4e0d09d0e" version="1">Globe of Invulnerability</content>
+</contentList>
